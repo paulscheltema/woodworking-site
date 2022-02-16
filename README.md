@@ -1,6 +1,8 @@
 <h1 align=center>Restaurant Hugo | <a target="_blank" href="https://demo.gethugothemes.com/restaurant" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Frestaurant%2F">Page Speed (85%)</a></h1>
 
 <p align=center>
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/bb529824-d66e-48ec-a20d-a618a13a81ab/deploy-status)](https://app.netlify.com/sites/cranky-lamport-420639/deploys)
+  
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.62.0" alt="Contributors">
     <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.62.0&color=f00&logo=hugo" />
   </a>
