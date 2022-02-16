@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/restaurant/examplesite/"
-languageCode = "en-us"
-title = "Restaurant Hugo"
+baseURL = "https://paulscheltema.nl/"
+languageCode = "nl-nl"
+title = "Tiny House Groningen"
 theme = "restaurant-hugo"
 summaryLength = "10"
 paginate = 4
@@ -41,12 +41,12 @@ URL = "js/main.js"
 ############################## navigation ###############################
 
 [[menu.main]]
-name = "Home"
+name = "Tiny Home"
 URL = "hero-area"
 weight = 1
 
 [[menu.main]]
-name = "About Us"
+name = "Over ons"
 URL = "about-us"
 weight = 2
 
@@ -56,17 +56,17 @@ URL = "blog"
 weight = 3
 
 [[menu.main]]
-name = "Price"
+name = "Prijs"
 URL = "price"
 weight = 4
 
 [[menu.main]]
-name = "News"
+name = "Nieuws"
 URL = "subscribe"
 weight = 5
 
 [[menu.main]]
-name = "Contact Us"
+name = "Contact"
 URL = "contact-us"
 weight = 6
 
@@ -75,14 +75,14 @@ weight = 6
 [params]
 logo = "images/logo.png"
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Paul Scheltema"
+description = "Een Tiny House bouwer in Groningen"
 # google analitycs ID
-google_analitycs_id = "Your ID"
+google_analitycs_id = "UA-110533565-1"
 # mainSections
 main_sections = ["post"]
 # copyright
-copyright = "Copyright &copy; 2021 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021"
 
 # Preloader
 [params.preloader]
@@ -101,17 +101,17 @@ socialTitle = "Follow <span>US</span>"
 [[params.footer.contactItem]]
 title = "Telephone"
 icon = "fa fa-phone"
-content = "016742 323313"
+content = "06 38155470"
 
 [[params.footer.contactItem]]
 title = "Address"
 icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
+content = "Verlaatweg 7 9791DR Ten Boer"
 
 [[params.footer.contactItem]]
 title = "E mail"
 icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
+content = "paulscheltema@gmail.com"
 
 ######################### footer gallery
 [[params.footer.gallery]]
