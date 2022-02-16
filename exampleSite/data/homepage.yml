@@ -64,7 +64,7 @@ pricing:
 subscription:
   enable : true
   bg_image : "images/subscribe-bg.jpg"
-  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
+  title : "Meld je aan voor de <span>NIEUWSBRIEF</span>"
   description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
   #Mailchimp subscription configaration 
   form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
@@ -74,6 +74,6 @@ subscription:
 ################ Contact #######################
 contact:
   enable : true
-  title: "Let's <span> Contact Us </span>"
-  subtitle: "SIGN UP FOR EMAIL ALERTS"
-  form_action : "#" #contact form works with formspree.io
+  title: "Wil je in contact komen?"
+  subtitle: "Vul je gegevens in en ik neem spoedig contact met je op."
+  form_action : "https://formspree.io/f/mpzbdrzl"
